@@ -1,5 +1,4 @@
-# TodoApp
-# Pre-work - *Name of App Here*
+# Pre-work - TodoApp
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -28,11 +27,7 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](TodoApp.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
